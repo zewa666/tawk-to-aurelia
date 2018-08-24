@@ -1,7 +1,7 @@
 {
   "name": "tawk-to-aurelia",
   "description": "A component wrapping the Tawk.to service",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/zewa666/tawk-to-aurelia"
