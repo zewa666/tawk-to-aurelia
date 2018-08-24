@@ -1,0 +1,9 @@
+<template>
+  <h1>${message}</h1>
+
+  Name: <input value.bind="userDetails.name" type="text"><br />
+  Email: <input value.bind="userDetails.email" type="text"><br />
+  <button click.delegate="updateDetails()">Update</button>
+
+  <tawk-to if.bind="loggedIn" account-id="YOURACCOUNTIDHERE (get it from Dashboard -> Project Settings)" user-details.bind="userDetails"></tawk-to>
+</template>

@@ -1,0 +1,1 @@
+{"version":3,"file":"tawk-to-service.js","sourceRoot":"src/tawk-to-aurelia/","sources":["tawk-to-service.ts"],"names":[],"mappings":"AAGA;IAGE;QACE,IAAI,CAAE,MAAc,CAAC,QAAQ,EAAE;YAC5B,MAAc,CAAC,QAAQ,GAAG,EAAc,CAAC;YAC1C,IAAI,CAAC,GAAG,GAAI,MAAc,CAAC,QAAQ,CAAC;SACrC;IACH,CAAC;IACH,oBAAC;AAAD,CAAC,AATD,IASC"}

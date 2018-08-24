@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"src/tawk-to-aurelia/","sources":["index.ts"],"names":[],"mappings":"AAAA,OAAO,EAEL,QAAQ,EACT,MAAM,mBAAmB,CAAC;AAE3B,MAAM,UAAU,SAAS,CAAC,MAA8B;IACtD,MAAM,CAAC,eAAe,CAAC,CAAC,QAAQ,CAAC,UAAU,CAAC,WAAW,CAAC,CAAC,CAAC,CAAC;AAC7D,CAAC;AAED,cAAc,UAAU,CAAC;AACzB,cAAc,mBAAmB,CAAC;AAClC,cAAc,WAAW,CAAC"}

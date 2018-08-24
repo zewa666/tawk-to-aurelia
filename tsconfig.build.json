@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "esnext",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "moduleResolution": "node",
+    "sourceMap": true,
+    "skipLibCheck": true,
+    "declaration": true,
+    "declarationDir": "dist/typings",
+    "lib": [
+      "es2017", "dom"
+    ],
+    "sourceRoot": "src/tawk-to-aurelia",
+    "baseUrl": "src/tawk-to-aurelia"
+  },
+  "include": [
+    "./src/tawk-to-aurelia/**/*.ts"
+  ]
+}
